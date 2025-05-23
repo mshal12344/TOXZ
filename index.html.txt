@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <title>موقعي الشخصي</title>
+  <style>
+    body {
+      background-color: #f0f0f0;
+      font-family: Arial;
+      text-align: center;
+      padding-top: 100px;
+    }
+    h1 {
+      color: #333;
+    }
+  </style>
+</head>
+<body>
+  <h1>أهلاً بكم في موقعي!</h1>
+  <p>أنا مشعل، وهذا أول موقع لي.</p>
+</body>
+</html>
